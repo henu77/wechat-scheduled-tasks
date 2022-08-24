@@ -8,6 +8,6 @@ data:
   app_id: "wxd5ffa8d35c4e87f4"
   app_secret: "2b5ae378d3acc371e7a1f1349aa7d1c7"
   # 扫码关注后，用户列表中接收人的微信号
-  user_id: "oaBwv5i2zglff6zXXwHTEHTd-Xro"
+  user_id: "oaBwv5sO8t-8_svnuUqgBr2YwP5A"
   # 微信公众号创建的模板
   template_id: "0fLDV7DN68wwUeAfEEHfMr68wF-eOsRcKZjfWkFAh0A"
